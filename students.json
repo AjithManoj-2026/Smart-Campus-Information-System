@@ -1,0 +1,24 @@
+[
+    {
+        "student_id": "GEN2026001",
+        "name": "Anusha ",
+        "age": 18,
+        "gender": "female",
+        "department": "biotechnology",
+        "semester": 1,
+        "phone": "3245678912",
+        "personal_email": "aaaaa45@gmail.com",
+        "college_email": "anusha.bi@smartcampus.edu",
+        "blood_group": "B",
+        "skills": [
+            "writing poems"
+        ],
+        "research_interest": "ai",
+        "attendance": 100,
+        "cgpa": 0.0,
+        "fees_paid": false,
+        "courses": [],
+        "password": "GEN2026001@123",
+        "profile_completion": 100
+    }
+]
